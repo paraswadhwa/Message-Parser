@@ -22,6 +22,8 @@ Output-
 Hey my name is Paras and my mobile no. is 95XXXXXXXX.
 
 ```
+The variables used in the template string should be enclosed between {{ }} pair.
+It can only containg alphanumeric characters.
 
 Just supply the variables used in the templateString as key value pair in data object.
 
